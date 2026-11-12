@@ -6,8 +6,8 @@ package com.mycompany.modul9;
  * Implements Comparable<Employee> agar bisa di-sort by name
  * menggunakan Collections.sort() tanpa perlu Comparator tambahan.
  *
- * Nama   : Rifqi Reissal Arasy
- * NIM    : 1201230038
+ * Nama   : Nur Fattah Hamdani
+ * NIM    : 103102400001
  */
 public class Employee implements Comparable<Employee> {
 

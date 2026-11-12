@@ -3,8 +3,8 @@ package com.mycompany.modul9;
 /**
  * Kelas induk Hewan untuk demo Polymorphism.
  *
- * Nama   : Rifqi Reissal Arasy
- * NIM    : 1201230038
+ * Nama   : Nur Fattah Hamdani
+ * NIM    : 103102400001
  */
 public class Hewan {
 

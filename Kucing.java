@@ -3,8 +3,8 @@ package com.mycompany.modul9;
 /**
  * Subclass Kucing yang meng-override suara() dari Hewan.
  *
- * Nama   : Rifqi Reissal Arasy
- * NIM    : 1201230038
+ * Nama   : Nur Fattah Hamdani
+ * NIM    : 103102400001
  */
 public class Kucing extends Hewan {
 

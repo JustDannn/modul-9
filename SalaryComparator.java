@@ -9,8 +9,8 @@ import java.util.Comparator;
  * Lebih fleksibel dari Comparable karena bisa dibuat banyak versi
  * tanpa mengubah kelas Employee.
  *
- * Nama   : Rifqi Reissal Arasy
- * NIM    : 1201230038
+ * Nama   : Nur Fattah Hamdani
+ * NIM    : 103102400001
  */
 public class SalaryComparator implements Comparator<Employee> {
 

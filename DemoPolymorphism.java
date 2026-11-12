@@ -3,8 +3,8 @@ package com.mycompany.modul9;
 /**
  * Demo Polymorphism: upcasting dan downcasting.
  *
- * Nama   : Rifqi Reissal Arasy
- * NIM    : 1201230038
+ * Nama   : Nur Fattah Hamdani
+ * NIM    : 103102400001
  */
 public class DemoPolymorphism {
 
